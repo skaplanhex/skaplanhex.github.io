@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Steven Kaplan
-email: your-email@example.com
+email: smkaplan87@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is a space where you can find out about me and the cool projects I've been working on.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -22,12 +22,28 @@ url: "https://skaplanhex.github.io/" # the base hostname & protocol for your sit
 twitter_username: physicsyid
 github_username:  skaplanhex
 linkedin_username: smkaplan
+# twitter:
+#   username: physicsyid
+
+social_sites:
+  twitter: physicsyid
+  github:  skaplanhex
+  #dribbble: jekyll
+  #facebook: jekyll
+  #flickr: jekyll
+  #instagram: jekyll
+  linkedin: smkaplan
+  #pinterest: jekyll
+  #youtube: jekyll
+  #googleplus: +jekyll
 
 # Build settings
 markdown: kramdown
-theme: minima
+# theme: minima
+remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
