@@ -13,4 +13,4 @@ During my Ph.D., I gained 5 years worth of experience in Python as well as C++, 
 
 While I have learned these technical skills that are relevant to data science, I have also learned what questions to ask of data.  I have a passion for digging into data and finding out what it can tell us.  More importantly, I love to find insights that can drive decision making and affect real change. It is mainly this reason that I have decided to leave the academic world to pursue data science as a career.
 
-If you would like to reach out to ask any questions or for recruitment opportunities, please feel free to contact me via email at smkaplan87@gmail.com.
+If you would like to reach out to ask any questions or for recruitment opportunities, please feel free to contact me via email at [smkaplan87@gmail.com](mailto:smkaplan87@gmail.com).
