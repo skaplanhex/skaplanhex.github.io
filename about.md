@@ -5,8 +5,6 @@ permalink: /about/
 ---
 <img src="https://skaplanhex.github.io/images/HPIM0194.jpg" alt="Steven Kaplan" style="width: 200px;"/>
 
-Welcome to my website!  Thanks for making your way here.
-
 What has defined my professional career up until now has been the excellent education I have been lucky enough to have received.  While a Ph.D. in Physics is indeed an academic pursuit at its core, I have had the privelage of carrying out my research within the CMS Experiment at the Large Hadron Collider (LHC) at CERN.  The CMS Experiment is comprised of thousands of scientists, and working within such an experiment is arguably a very industry-like endeavor.  One works within multiple groups, is accountable to many others, and has to learn to wear multiple "hats".  We are under pressure to produce results; however, this is where my experience and industry differ: at CMS I worked not for the pursuit of profit or efficiency but for the pursuit of knowledge.
 
 During my Ph.D., I gained 5 years worth of experience in Python as well as C++, machine learning algorithms such as boosted decision trees, and statistical methods such as the evaluation of goodness of fit, Bayesian inference, and Monte Carlo simulation.  Our analysis was carried out on a scientific computing grid with nodes all over the world, and we needed to take care to write our code knowing it would be analyzed in sections on multiple nodes.
